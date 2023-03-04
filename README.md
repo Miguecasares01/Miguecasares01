@@ -1,6 +1,6 @@
 Miguel Casares Martínez
 - 👋 Hi, I’m a System Administrator from Granada in Spain.
-- I´m currently learing Python and looking fo job.
+- I´m currently working as N1 Technician at Fujitsu.
 - Feel free to contact me in Linkedin or via gmail:
 https://www.linkedin.com/in/miguel-casares-martinez-9262b4213/
 miguelcasaresmartinez@gmail.com
