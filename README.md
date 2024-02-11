@@ -14,10 +14,10 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp;- In Backup and Storage Solutions of: 
 
-[![Netapp](https://img.shields.io/badge/Netapp_Storage_Cabins-000000?style=for-the-badge&logo=netapp&logoColor=white)](https://www.netapp.com/es/) &nbsp; &nbsp;
+[![Netapp](https://img.shields.io/badge/Netapp-000000?style=for-the-badge&logo=netapp&logoColor=white)](https://www.netapp.com/es/) &nbsp; &nbsp;
 [![ArcServe](https://img.shields.io/badge/ARCServe_Backup-DEDE00?style=for-the-badge)](https://www.arcserve.com/es/products/arcserve-backup)  &nbsp; &nbsp;
-[![Dell](https://img.shields.io/badge/Dell_Storage_Cabins-0077B5?style=for-the-badge&logo=dell&logoColor=white)](https://www.dell.com/es-es) &nbsp; &nbsp;
-[![HP](https://img.shields.io/badge/HP_Storage_Cabins-0077B5?style=for-the-badge&logo=hp&logoColor=white)](https://www.hp.com/es-es/home.html)
+[![Dell](https://img.shields.io/badge/Dell-0077B5?style=for-the-badge&logo=dell&logoColor=white)](https://www.dell.com/es-es) &nbsp; &nbsp;
+[![HP](https://img.shields.io/badge/HP-0077B5?style=for-the-badge&logo=hp&logoColor=white)](https://www.hp.com/es-es/home.html)
 
 &nbsp; &nbsp; &nbsp; &nbsp;- In some Virtualization Platfforms: 
 
